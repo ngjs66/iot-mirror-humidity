@@ -1,4 +1,4 @@
-# smartMirror_humidity
+# iot-mirror-humidity
 IoT enabled Smart Mirror with humidity and temperature sensors
 
 ## Requirements (Hardware)
