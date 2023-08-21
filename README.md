@@ -8,6 +8,6 @@ IoT enabled Smart Mirror with humidity and temperature sensors
 - **Display:** Monitor  
 
 ## Requirements (Software)
-- **Database:** Firebase
+- **Database:** InfluxDB 1.7.x
 - **Mirror module:** MagicMirror
 - **Graph:** Grafana
