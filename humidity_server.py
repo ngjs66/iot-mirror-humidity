@@ -44,10 +44,10 @@ while True:
         dhtDevice.exit()
         raise error
     # Set up InfluxDB
-    host = '192.168.0.117'  # Change to RasPi ip
+    host = 'localhost'  # Change to RasPi ip
     port = 8086
     username = 'grafana'   # Grant admin privileges to Grafana: user 
-    password = '@Pass1234' # and password.
+    password = 'grafana' # and password.
     db = 'readings'  
 
     # InfluxDB client to write to
