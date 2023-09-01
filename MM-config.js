@@ -90,7 +90,7 @@ let config = {
 				type: "current",
 				location: "Kuala Lumpur",
 				locationID: "1733045", //ID from http://bulk.openweathermap.org/sample/city.list.json.gz; unzip the gz file and find your city
-				apiKey: "d34096246055d217c7c4c05de66e19fa",
+				apiKey: "OpenWeather API key here",
 				showHumidity: true
 			}
 		},
@@ -128,7 +128,7 @@ let config = {
 				type: "forecast",
 				location: "Kuala Lumpur",
 				locationID: "1733045", //ID from http://bulk.openweathermap.org/sample/city.list.json.gz; unzip the gz file and find your city
-				apiKey: "d34096246055d217c7c4c05de66e19fa"
+				apiKey: "OpenWeather API key here"
 			}
 		},
 		// Default unused modules
